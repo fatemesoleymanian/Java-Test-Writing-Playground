@@ -1,51 +1,89 @@
-# Java Test Writing Playground 🧪
 
-A repository for my Java practice exercises and mini-projects—focused on learning and demonstrating testing skills with JUnit 5, along with other Java essentials.
+# JAVA-TEST-WRITING-PLAYGROUND  
+*Master Testing, Unlock Java’s Full Potential*
+
+![last-commit](https://img.shields.io/github/last-commit/fatemesoleymanian/Java-Test-Writing-Playground?style=flat&logo=git&logoColor=white&color=0080ff)
+![repo-top-language](https://img.shields.io/github/languages/top/fatemesoleymanian/Java-Test-Writing-Playground?style=flat&color=0080ff)
+![repo-language-count](https://img.shields.io/github/languages/count/fatemesoleymanian/Java-Test-Writing-Playground?style=flat&color=0080ff)
+
+*Built with the tools and technologies:*
+
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD.svg?style=flat&logo=XML&logoColor=white)
+
 
 ---
 
-## 🚀 What’s Inside
+## Table of Contents
 
-This repo contains isolated code you can explore and learn from:
-
-
-- **Junit** – Getting started with simple assertions and test lifecycle – Integrating Mockito in more complex scenarios. 
-- **ShoppingCartWithTest** – Using parameterized tests to cover more use-cases – Creating your own JUnit 5 extensions for shared logic – Basic Mockito usage: stubs, spies, mocks.
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
 
 ---
 
-## ⚙️ How to Run
+## Overview
 
-Each subproject is a standalone Maven module. From the repository root run:
+**Java-Test-Writing-Playground** is an interactive environment crafted for developers to practice and demonstrate Java testing techniques. It emphasizes hands-on learning with a focus on unit testing using JUnit 5 and Mockito, supporting assertions, test lifecycle management, parameterized tests, custom extensions, and mocking strategies within isolated, modular subprojects.
 
-```bash
-mvn clean test
-````
+### Why Java-Test-Writing-Playground?
 
-You can also enter any subfolder individually and run its build:
+This project helps developers sharpen their testing skills and reinforce Java fundamentals through a structured, hands-on approach. The core features include:
 
-```bash
-cd junit5-parameterized
+- 🧪 **Test Framework Integration:** Seamless setup with JUnit 5 and Mockito for reliable, automated testing.
+- 🧩 **Modular Subprojects:** Isolated environments for targeted testing and experimentation.
+- 🚀 **Advanced Testing Capabilities:** Support for parameterized tests, custom extensions, and mocking strategies.
+- 🔧 **Build & Validation:** Integrated with Maven for continuous validation and maintainability.
+- 🎯 **Educational Focus:** Designed as a practical learning platform to enhance testing proficiency.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+This project requires the following dependencies:
+
+- **Programming Language:** Java  
+- **Package Manager:** Maven
+
+### Installation
+
+Build Java-Test-Writing-Playground from the source and install dependencies:
+
+1. **Clone the repository:**
+   ```
+   git clone https://github.com/fatemesoleymanian/Java-Test-Writing-Playground
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```
+   cd Java-Test-Writing-Playground
+   ```
+
+3. **Install the dependencies:**
+
+   ```
+   mvn install
+   ```
+
+### Usage
+
+Run the project with:
+
+```
+mvn exec:java
+```
+
+### Testing
+
+Java-Test-Writing-Playground uses the **JUnit 5** test framework. Run the test suite with:
+
+```
 mvn test
 ```
-
----
-
-## 🧪 Why This Repo?
-
-* 📚 **Learning playground**: Try out new testing techniques, experiment with configurations, and get hands-on quickly.
-* 🧩 **Modular & focused**: Each folder is self-contained: its build file, code, and tests make it easy to browse and understand.
----
-
-## 📌 Tags & Topics
-
-```
-Topics: java, junit5, mockito, unit-testing, tdd, java-playground
-```
-
----
-
-## 🛡️ License
-
-[MIT License](LICENSE.md)
 
