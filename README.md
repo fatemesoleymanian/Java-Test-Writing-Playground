@@ -6,12 +6,6 @@
 ![repo-top-language](https://img.shields.io/github/languages/top/fatemesoleymanian/Java-Test-Writing-Playground?style=flat&color=0080ff)
 ![repo-language-count](https://img.shields.io/github/languages/count/fatemesoleymanian/Java-Test-Writing-Playground?style=flat&color=0080ff)
 
-*Built with the tools and technologies:*
-
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD.svg?style=flat&logo=XML&logoColor=white)
-
-
 ---
 
 ## Table of Contents
