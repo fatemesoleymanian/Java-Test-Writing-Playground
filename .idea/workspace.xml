@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e7de4fa-918f-46d1-a912-125014515d7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest-02/src/main/java/org/example/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest-02/src/test/java/org/example/ReverseStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest-03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest-03/src/main/java/org/example/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest-03/src/test/java/org/example/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting/src/test/java/org/example/CalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBootUnitTests/src/test/java/com/codesnippet/ecom/Service/ProductServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2zmwc0JK41B7AwC4y01MX3Fb88c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;A:/workSpace/java fundmentals/Java_Tests&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e7de4fa-918f-46d1-a912-125014515d7f" name="Changes" comment="" />
+      <created>1752349631910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752349631910</updated>
+      <workItem from="1752349633525" duration="890000" />
+      <workItem from="1752490435696" duration="1811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
